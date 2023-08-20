@@ -1,13 +1,5 @@
 ![FAQ system logo](https://github.com/president-tuychiyev/faq-system/blob/main/public/logo.png?raw=true#center)
 
-<style>
-img[src*='#center'] { 
-    width: 200px;
-    display: block;
-    margin: auto;
-}
-</style>
-
 # FAQ system
 
 Installation
