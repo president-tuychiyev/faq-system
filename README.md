@@ -1,3 +1,5 @@
+![FAQ system logo](https://github.com/president-tuychiyev/faq-system/blob/main/public/logo.png?raw=true#center)
+
 <style>
 img[src*='#center'] { 
     width: 200px;
@@ -5,8 +7,6 @@ img[src*='#center'] {
     margin: auto;
 }
 </style>
-
-![FAQ system logo](https://github.com/president-tuychiyev/faq-system/blob/main/public/logo.png?raw=true#center)
 
 # FAQ system
 
@@ -33,7 +33,9 @@ php artisan migrate:fresh --seed
 
 php artisan serve
 ```
+
 You need to access the following url to access the admin panel
-- <you-ip:port>/login
-- Email: faq@gmail.com
-- password: 123456
+
+-   <you-ip:port>/login
+-   Email: faq@gmail.com
+-   password: 123456
