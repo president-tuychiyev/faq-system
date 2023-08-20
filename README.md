@@ -31,3 +31,13 @@ You need to access the following url to access the admin panel
 -   <you-ip:port>/login
 -   Email: faq@gmail.com
 -   password: 123456
+
+---
+
+## Technology
+
+-   Laravel
+-   Inertia
+-   Vue
+-   Tailwind
+-   Naive UI
